@@ -2,9 +2,9 @@
 
 ##### I am a Cyber Security Engineer based out of Dunedin, New Zealand.
 
-##### Currently I am upskilling a number of things including - my knowledge of python, powershell, shell scripting, and SQL.
+##### Currently I am upskilling a number of things including - my knowledge of AWS, terraform, python, powershell, shell scripting, and SQL.
 
-##### My goal is to store any scripts that I create here, on github. And anything useful, interesting or noteworthy I will make public.
+##### 
 
 <!--
 **jarmez/jarmez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
